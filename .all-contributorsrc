@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "hu119-web",
+      "name": "Hzero_9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221663221?v=4",
+      "profile": "https://github.com/hu119-web",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "first-try",
+  "projectOwner": "codestars-whut"
+}
