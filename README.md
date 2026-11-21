@@ -17,6 +17,7 @@ hyt真帅
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fanshou46-rgb"><img src="https://avatars.githubusercontent.com/u/282249954?v=4&size=100" width="100px" height="100px" alt="fanshou46-rgb"/><br /><sub><b>fanshou46-rgb</b></sub></a><br /><a href="https://github.com/codestars-whut/first-try/commits?author=fanshou46-rgb" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hu119-web"><img src="https://avatars.githubusercontent.com/u/221663221?v=4&size=100" width="100px" height="100px" alt="Hzero_9"/><br /><sub><b>Hzero_9</b></sub></a><br /><a href="https://github.com/codestars-whut/first-try/commits?author=hu119-web" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
